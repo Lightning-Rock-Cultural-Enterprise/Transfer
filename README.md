@@ -126,3 +126,11 @@ Video:"AVerMedia USB Polaris Analog Capture"
         - Crossbar Input pin 2 - "S-Video" related input pin: 4
         - Crossbar Input pin 3 - "Audio Tuner" related input pin: 0
         - Crossbar Input pin 4 - "Audio Line" related input pin: 1
+
+http://rocksaying.tw/archives/22568176.html
+https://welkinchen.pixnet.net/blog/post/45543514-%E4%BD%BF%E7%94%A8-ffmpeg-%E8%BD%89%E6%AA%94%E5%BD%B1%E7%89%87%E6%A0%BC%E5%BC%8F
+https://ffmpeg.org/ffmpeg.html
+https://trac.ffmpeg.org/wiki/DirectShow
+https://trac.ffmpeg.org/wiki/HWAccelIntro
+https://trac.ffmpeg.org/wiki/Encode/H.264
+https://devblogs.nvidia.com/nvidia-ffmpeg-transcoding-guide/
