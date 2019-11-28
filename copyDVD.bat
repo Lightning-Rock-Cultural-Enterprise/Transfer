@@ -1,2 +1,3 @@
-mkdir ..\input\VIDEO_TS\
-copy /v G:\VIDEO_TS\*.* F:\Git\Multimedia-DataBase\.temp\input\VIDEO_TS\
+mkdir .\VIDEO_TS\VIDEO_TS\
+copy /v G:\VIDEO_TS\*.* .\VIDEO_TS\VIDEO_TS\
+7z h -scrcsha256 .\VIDEO_TS\VIDEO_TS
