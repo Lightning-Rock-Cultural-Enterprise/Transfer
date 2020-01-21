@@ -4,6 +4,10 @@
 1. VHS錄影播放機
 2. DVCAM錄影播放機
 
+使用datavideo就可以解開防拷貝，使用S-Video轉AV端子。
+
+微軟內建的麥克風等級控制會影響讀取的音量，也會讓音量有超過的狀況，因此調整適合的音量也是很至重要的。
+
 ## WebCam
 AVI + ACC ，音訊會大量的延展  
 MP4 + ACC ，音訊會斷斷續續  
@@ -126,3 +130,11 @@ Video:"AVerMedia USB Polaris Analog Capture"
         - Crossbar Input pin 2 - "S-Video" related input pin: 4
         - Crossbar Input pin 3 - "Audio Tuner" related input pin: 0
         - Crossbar Input pin 4 - "Audio Line" related input pin: 1
+
+http://rocksaying.tw/archives/22568176.html
+https://welkinchen.pixnet.net/blog/post/45543514-%E4%BD%BF%E7%94%A8-ffmpeg-%E8%BD%89%E6%AA%94%E5%BD%B1%E7%89%87%E6%A0%BC%E5%BC%8F
+https://ffmpeg.org/ffmpeg.html
+https://trac.ffmpeg.org/wiki/DirectShow
+https://trac.ffmpeg.org/wiki/HWAccelIntro
+https://trac.ffmpeg.org/wiki/Encode/H.264
+https://devblogs.nvidia.com/nvidia-ffmpeg-transcoding-guide/
