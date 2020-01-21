@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" LC_NUMERIC="zh_TW" producer="main_bin" version="6.16.0" root="F:/Git/Multimedia-DataBase/.temp/input">
+<mlt title="Anonymous Submission" LC_NUMERIC="zh_TW" producer="main_bin" version="6.16.0" root="F:/Git/Transfer">
  <profile frame_rate_num="30" sample_aspect_num="8" display_aspect_den="480" colorspace="601" progressive="1" description="720x480 4:3 30.00fps" display_aspect_num="683" frame_rate_den="1" width="720" height="480" sample_aspect_den="9"/>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">3</property>
-  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.activeTrack">1</property>
+  <property name="kdenlive:docproperties.audioTarget">1</property>
   <property name="kdenlive:docproperties.decimalPoint">.</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1573105795656</property>
@@ -17,7 +17,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">19.08.1</property>
-  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.position">315</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">C:/Users/Berlin/AppData/Roaming/kdenlive/profiles/customprofile1</property>
@@ -51,10 +51,10 @@
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">0.99</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:docproperties.zoom">13</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
  </playlist>
