@@ -8,6 +8,10 @@
 /VIDEO_TS
 *.mp4
 *.mp3
+*.jpg
+*.png
+*.JPG
+*.PNG
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
